@@ -1,4 +1,4 @@
-# Notes Android App
+# Notes-Android-App
 
 This repository contains the code for a Notes Android App, a simple yet effective application to manage your personal notes. The app allows users to add, display and delete notes efficiently. It uses SharedPreferences for local data persistence and is built with a single activity, making it lightweight and easy to maintain.
 
